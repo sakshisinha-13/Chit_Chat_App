@@ -1,4 +1,4 @@
-# Chit Chat App
+# Chat App
 
 Chit Chat App is a real-time messaging application built using the MERN stack (MongoDB, Express, React, Node.js) along with Socket.io for real-time, bi-directional communication. It allows users to register, log in, set a profile avatar, and send/receive messages instantly with other users.
 
