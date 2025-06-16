@@ -32,8 +32,7 @@ Chit Chat App is a real-time messaging application built using the MERN stack (M
 - MongoDB with Mongoose
 - Socket.io
 - bcrypt for password hashing
-- JSON Web Tokens (JWT) for authentication
-
+  
 ---
 
 ## Project Structure
